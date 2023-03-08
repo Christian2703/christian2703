@@ -1,5 +1,7 @@
 ## Bem-vindo(a) ao meu perfil😁
 
+ <p><img align="right" alt="gif" src="https://github.com/Christian2703/christian2703/blob/main/e18518c6d24257c6fb02e3c95a862d85.gif" width="500 height="320" /></p>
+
  <div>
    <a href="https://github.com/Christian2703">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devemdobro&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
